@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja512&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja512" /> </p>
 
-- 🔭 I’m currently working on **QR Collage Gate Pass**
+- 🔭 I’m currently working on **QR Collage Gate Pass Project**
 
 - 🌱 I’m currently learning **TensorFlow, Seaborn, Pandas, Machine Learning**
 
